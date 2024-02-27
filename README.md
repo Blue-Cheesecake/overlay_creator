@@ -1,2 +1,3 @@
 # overlay_creator
-The mixin class that can create custom overlay with ease.
+
+The mixin that can create a custom overlay with ease.
